@@ -1,0 +1,4 @@
+﻿Command: curl.exe -X PUT http://localhost:5000/customer/auth/review/1 with Bearer token and review.json
+
+Output:
+{"message":"Review added or updated successfully","reviews":{"evidenceuser20261015193419":"Evidence test review"}}

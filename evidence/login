@@ -1,0 +1,4 @@
+﻿Command: curl.exe -X POST http://localhost:5000/customer/login --data-binary @register.json
+
+Output:
+{"message":"User successfully logged in","accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImV2aWRlbmNldXNlcjIwMjYxMDE1MTkzNDE5IiwiaWF0IjoxNzkyMDc0ODU5LCJleHAiOjE3OTIwNzg0NTl9.lae4ZftEnAlVOlTF-PtZoiUj-bdIK92lOA3Zct02_sU"}
