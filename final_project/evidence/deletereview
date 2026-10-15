@@ -1,0 +1,4 @@
+﻿Command: curl.exe -X DELETE http://localhost:5000/customer/auth/review/1 with Bearer token
+
+Output:
+{"message":"Review deleted successfully","reviews":{}}
